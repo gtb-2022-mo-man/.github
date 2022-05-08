@@ -14,5 +14,8 @@ This is Man Mo.
 
 You see this avatar, you know it is me.
 
+![](C:/Users/Kyle/Desktop/cs/gtb-2022/.github/assets/avatar.jpg)
 
+This is me and my friend in my university:
 
+![](C:/Users/Kyle/Desktop/cs/gtb-2022/.github/assets/me_in_college.jpeg)
