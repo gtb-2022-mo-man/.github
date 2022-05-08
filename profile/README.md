@@ -18,4 +18,4 @@ You see this avatar, you know it is me.
 
 This is me and my friend in my university:
 
-![](C:/Users/Kyle/Desktop/cs/gtb-2022/.github/assets/me_in_college.jpeg)
+![](/assets/me_in_college.jpeg)
